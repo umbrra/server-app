@@ -1,0 +1,25 @@
+{
+  "name": "kpp_lab2",
+  "version": "1.0.0",
+  "description": "Server application",
+  "main": "app",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroslavDerevianko/kpp-2.git"
+  },
+  "author": "Derevianko Miroslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroslavDerevianko/kpp-2/issues"
+  },
+  "homepage": "https://github.com/MiroslavDerevianko/kpp-2#readme"
+}
